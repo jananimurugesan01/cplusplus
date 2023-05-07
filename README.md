@@ -1,9 +1,9 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
     string email,loc,report;
-    cout<<"                                  WEATHER APP                       \n";
+    cout<<"                                  WEATHER APP                         \n";
     /*Name:Janani M
     College name:Vivekanandha College of ENgineering for Women
     datas used:Email id,Location,report
